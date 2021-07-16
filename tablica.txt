@@ -1,0 +1,138 @@
+TABLICA DUŻA
+
+
+NOMINATIVE
+
+  NOUNS
+  
+    SINGULAR
+  
+      M: -, -a
+    
+        ex: stół, kot, pokój
+      
+      F: -a, -i, -, -ść
+      
+      N: -o, e, -ię, -ę, um
+      
+    PLURAL
+    
+      M NON MEN: -y, -i, -e, -ie
+      
+      M MEN: -i, -owie, -iowie, -ie, -e, -y
+      
+      F: -y, -i, -e, -ie
+      
+      N: -a, -iona, -ęta
+      
+      
+  ADJECTIVES
+  
+    SINGULAR
+    
+      M: -y, -i
+      
+      F: -a
+      
+      N: -e, -ie
+    
+    PLURAL
+    
+      NON MEN: -e, -ie
+      
+      MEN: -i, -y, -eni
+      
+      
+ACCUSATIVE
+
+  NOUNS
+  
+    SINGULAR
+  
+      M NON ALIVE: -, -a
+      
+      M ALIVE: -a, -ca, -ńca, -ka, -ra, -ia, -ę
+      
+      F: -ę, -
+      
+      N: -o, e, -ię, -ę, um
+      
+    PLURAL
+    
+      M NON MEN: -y, -i, -e, -ie
+      
+      M MEN: -ów, -iów, -i, -y
+      
+      F: -y, -i, -e, -ie
+      
+      N: -a, -iona, -ęta
+      
+      
+  ADJECTIVES
+  
+    SINGULAR
+    
+      M ALIVE: -ego
+      
+      F: -ą
+      
+      N: -e, -ie
+    
+    PLURAL
+      
+      M MEN: -ich, -ych
+      
+      
+GENITIVE
+
+  NOUNS
+  
+    SINGULAR
+    
+      M NON ALIVE: -u, -a
+    
+      M ALIVE: -a, -y, -i
+
+      F: -y, -i, -ii
+      
+      N: -a, -ienia, -ęcia, -um
+
+    PLURAL
+    
+      M NON MEN: -ów, -y, -i
+      
+      M MEN: -ów, -iów, -i, -y
+      
+      F: -, -y, -i, -ii
+      
+      N: -, -ion, -ąt, -i, -y, -ów (<- um)
+      
+  
+  ADJECTIVES
+  
+    SINGULAR
+    
+      M: -ego, -iego
+      
+      F: -ej, -iej
+      
+      N: -ego, -iego
+      
+    PLURAL
+    
+      ALL: -ych, -ich
+      
+      
+DATIVE
+
+  NOUNS
+  
+    SINGULAR
+    
+      M: -owi, -iowi, -u, -y (<- ca), -e, -ie
+      
+      F: -e, -y, -i, -ii
+      
+      N: -u, -ieniu, -ęciu
+      
+      
