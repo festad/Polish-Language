@@ -133,6 +133,86 @@ DATIVE
       
       F: -e, -y, -i, -ii
       
-      N: -u, -ieniu, -ęciu
+      N: -u, -ieniu, -ęciu, um
       
+    PLURAL
+    
+      ALL: -om, -iom, -ionom, -ętom
+    
+  ADJECTIVES
+  
+    SINGULAR
+    
+      M: -emu, -iemu
       
+      F: -ej, -iej
+      
+      N: -emu, -iemu
+      
+    PLURAL
+    
+      ALL: -ym, -im
+      
+
+INSTRUMENTAL
+
+  NOUNS
+  
+    SINGULAR
+    
+      M: -em, -iem, -ą
+      
+      F: -ą, -ią
+      
+      N: -em, -iem, -ieniem, ęciem
+      
+    PLURAL
+    
+      ALL: -ami, -iami, -mi, -ionami, -ętami
+      
+    
+  ADJECTIVES
+  
+    SINGULAR:
+    
+      M: -ym, -im
+      
+      F: -ą
+      
+      N: -ym, -im
+      
+    PLURAL:
+    
+      ALL: -ymi, -imi
+
+
+LOCATIVE
+
+  NOUNS
+  
+    SINGULAR
+    
+      M: -e, -ie, -u, -iu, -y (<- ca)
+      
+      F: -e, -ie, -y, -i, -ii
+      
+      N: -e, -ie, -um, -u, -ieniu, -ęciu
+    
+    PLURAL
+    
+      ALL: -ach, -iach, -ionach, -ętach, ech (<- Włoszech)
+    
+    
+  ADJECTIVES
+  
+    SINGULAR
+    
+      M: -ym, -im
+      
+      F: -ej, -iej
+      
+      N: -ym, -im
+    
+    PLURAL
+    
+      ALL: -ych, -ich
