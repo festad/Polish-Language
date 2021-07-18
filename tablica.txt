@@ -43,6 +43,11 @@ NOMINATIVE
       MEN: -i, -y, -eni
       
       
+  PRONOUNS
+  
+    ja, ty, on/ona/ono, my, wy, oni/one 
+      
+      
 ACCUSATIVE
 
   NOUNS
@@ -81,6 +86,16 @@ ACCUSATIVE
     PLURAL
       
       M MEN: -ich, -ych
+      
+      
+  PRONOUNS
+  
+    mnie, cię, go/ją/je, nas, was, ich/je
+    
+    cię -> ciebie
+    go  -> jego
+    
+    mnie, ciebie, niego/nią/nie, nas, was, nich/nie
       
       
 GENITIVE
@@ -122,6 +137,16 @@ GENITIVE
     
       ALL: -ych, -ich
       
+  
+  PRONOUNS
+  
+    mnie, cię, go/jej/go, nas, was, ich/ich
+    
+    cię -> ciebie
+    go  -> jego
+    
+    mnie, ciebie, niego/niej/niego, nas, was, nich/nich
+      
       
 DATIVE
 
@@ -152,6 +177,17 @@ DATIVE
     PLURAL
     
       ALL: -ym, -im
+      
+      
+  PRONOUNS
+  
+    mi, ci, mu/jej/mu, nam, wam, im/im
+    
+    mi -> mnie
+    ci -> tobie
+    mu -> jemu
+    
+    mnie, tobie, niemu/niej/niemu, nam, wam, nim/nim
       
 
 INSTRUMENTAL
@@ -184,6 +220,11 @@ INSTRUMENTAL
     PLURAL:
     
       ALL: -ymi, -imi
+      
+      
+  PRONOUNS
+  
+    mną, tobą, nim/nią/nim, nami, wami, nimi/nimi
 
 
 LOCATIVE
@@ -216,3 +257,8 @@ LOCATIVE
     PLURAL
     
       ALL: -ych, -ich
+      
+      
+  PRONOUNS
+  
+    mnie, tobie, nim/niej/nim, nas, was, nich/nich
